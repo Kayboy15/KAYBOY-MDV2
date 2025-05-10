@@ -27,7 +27,7 @@ A multi functional bot created by Kayboy-zw
 <a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
 
 <p align="center">
-  <a href="https://github.com/Kayboy15/KAYBOY-MD"><img title="Developer" src="https://img.shields.io/badge/Author-mrntandooofc-00FFFF.svg?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Kayboy15/KAYBOY-MDV2"><img title="Developer" src="https://img.shields.io/badge/Author-mrntandooofc-00FFFF.svg?style=for-the-badge&logo=github" />
   </a>
 </
 <p align="center"><img src="https://profile-counter.glitch.me/{𝕷𝕬𝕯𝖄𝕭𝖀𝕲 𝕸𝕯 1.0.0}/count.svg" alt="efkidgamerdev :: Visitor's Count" /></p>
@@ -54,7 +54,7 @@ A multi functional bot created by Kayboy-zw
 
 First star & Fork the repo using the button below!
 
-[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Kayboy15/KAYBOY-MD/fork)
+[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Kayboy15/KAYBOY-MDV2/fork)
 
 ---
 
@@ -65,7 +65,7 @@ First star & Fork the repo using the button below!
 
 
 #### 😆 OPTION ONE
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://kayboy-md-sesion.onrender.com/)
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://kayboy-pair-code.onrender.com/)
 
 #### 😉 OPTION TWO
 [![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https:///qr)
