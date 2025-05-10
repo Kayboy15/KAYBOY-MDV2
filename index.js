@@ -200,17 +200,8 @@ async function startXeonBotInc() {
             // Send message to bot's own number
             const botNumber = XeonBotInc.user.id.split(':')[0] + '@s.whatsapp.net';
             await XeonBotInc.sendMessage(botNumber, { 
-                text: `╭┉┉┉ `ＫＡＹＢＯＹ-ＭＤ`┉┉┉◈
-┊ *◈ʙᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ꜱᴜᴄᴄᴇꜱꜰᴜʟʟʏ⚡*
-┊
-┊*◈ꜱᴜᴘᴘᴏʀᴛ ᴜꜱ ʙᴇʟᴏᴡ*
-┊
-┊ *◈ᴏꜰꜰɪᴄᴀʟʟ ᴄʜᴀɴɴᴇʟ*
-https://whatsapp.com/channel/0029VbAjDiYJf05hsaM06704
-┊
-┊ *◈ᴏꜰꜰɪᴄᴀʟ ɢʀᴏᴜᴘ*
-https://chat.whatsapp.com/JfFGYIVmrwk7uYb8fWyn0V
-┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅◈`,
+                text: `🤖 KAYBOY-MD Connected Successfully!\n\n⏰ Time: ${new Date().toLocaleString()}\n✅ Status: Online and Ready!
+                \n✅Make sure to join below channel`,
                 contextInfo: {
                     forwardingScore: 1,
                     isForwarded: true,
