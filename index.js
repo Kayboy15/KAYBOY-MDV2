@@ -48,7 +48,7 @@ const ownerNumber = ['263779745277']
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("kayboy~", '');
+const sessdata = config.SESSION_ID.replace("malvin~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -225,7 +225,7 @@ if (!isReact && senderNumber === botNumber) {
     }
 }        
 //=================================WORKTYPE=========================================== 
-if(!isOwner && config.MODE === "private") return
+if(!isOwner && config.MODE ==="public) return
 if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && isGroup && config.MODE === "groups") return
 //======================================================
